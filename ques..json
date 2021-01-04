@@ -1,0 +1,74 @@
+[
+    {
+        "ques": "what is javascript?"
+    },
+    {
+        "ques": "choose the correct selector with higher priority?"
+    },
+    {
+        "ques": "what is callback?"
+    },
+    {
+        "ques_id": 1,
+        "option_id": "A",
+        "option": "single-threaded langauge",
+        "score":10,
+        "iscorrect": true
+    },
+    {
+        "ques_id": 1,
+        "option_id": "B",
+        "option": "multi-threaded langauge",
+        "score":0,
+        "iscorrect": false
+    },
+    {
+        "ques_id": 1,
+        "option_id": "C",
+        "option": " low level langauge",
+        "score":0,
+        "iscorrect": false
+    },
+    {
+        "ques_id": 2,
+        "option_id": "A",
+        "option": "in-line",
+        "score":10,
+        "iscorrect": true
+    },
+    {
+        "ques_id": 2,
+        "option_id": "B",
+        "option": "id",
+        "score":0,
+        "iscorrect": false
+    },
+    {
+        "ques_id": 2,
+        "option_id": "C",
+        "option": "class",
+        "score":0,
+        "iscorrect": false
+    },
+    {
+        "ques_id": 3,
+        "option_id": "A",
+        "option": "is a funcion called after completion of a function from inside",
+        "score":10,
+        "iscorrect": true
+    },
+    {
+        "ques_id": 3,
+        "option_id": "B",
+        " option": " a part of promise",
+        "score":0,
+        "iscorrect": false
+    },
+    {
+        "ques_id": 3,
+        "option_id": "C",
+        "option": "it makes code unblocking",
+        "score":0,
+        "iscorrect": false
+    }
+]
